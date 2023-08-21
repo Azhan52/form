@@ -2,8 +2,8 @@ form{
     border: 2px solid black;
     width: fit-content;
     justify-content: center;
-    margin: 8% 0 0 0;
-    height: 300px;
+    margin: 6% 0 0 0;
+    height: 350px;
     border-radius: 10px;
     text-align: center;
     background: transparent;
@@ -28,4 +28,9 @@ body{
     background-position: center;
     background-size: cover;
 
+}
+select{
+    background: transparent;
+    color: gray;
+    border-radius: 5px;
 }
