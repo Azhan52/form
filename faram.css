@@ -1,0 +1,31 @@
+form{
+    border: 2px solid black;
+    width: fit-content;
+    justify-content: center;
+    margin: 8% 0 0 0;
+    height: 300px;
+    border-radius: 10px;
+    text-align: center;
+    background: transparent;
+    backdrop-filter: blur(2px);
+    box-shadow:5px 10px 10px rgb(62, 58, 58) ;
+    color: aliceblue;
+}
+body{
+    display: flex;
+    justify-content: center;
+    
+}
+input,textarea{
+    accent-color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    background:transparent;
+    border-radius: 20px;
+    color: aliceblue;
+}
+body{   
+    background: url(./batman-smoke-and-mystery-et.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
